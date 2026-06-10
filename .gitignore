@@ -1,0 +1,14 @@
+.DS_Store
+.build/
+dist/
+# *.md
+ast_python/
+.codex
+plan/
+# Vendor protocol docs (copyrighted, local reference only)
+vendor-docs/
+CLAUDE.md
+# Local-only: build/packaging scripts, app resources, and tests are not published
+script/
+Resources/
+Tests/
